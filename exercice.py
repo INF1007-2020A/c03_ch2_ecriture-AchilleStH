@@ -1,6 +1,7 @@
 def majuscule(mot):
     resultat = ''
     for lettre in mot:
+        code=0
         code=ord(lettre)
         code-=32
         lettre=chr(code)
