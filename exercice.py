@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 def majuscule(mot):
     resultat = ''
     for lettre in mot:
